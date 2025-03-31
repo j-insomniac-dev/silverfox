@@ -1,0 +1,18 @@
+{
+  "item-group.silverfox.item_group": "Silverfox",
+
+  "comment_items": "/* ITEMS */",
+  "item.silverfox.silver_ingot": "Silver Ingot",
+  "item.silverfox.raw_silver": "Raw Silver",
+  "item.silverfox.silver_nugget": "Silver Nugget",
+
+  "comment_blocks": "/* BLOCKS */",
+  "block.silverfox.silver_storage_block": "Block of Silver",
+  "block.silverfox.raw_silver_storage_block": "Block of Raw Silver",
+
+  "comment_ores": "/* ORES */",
+  "block.silverfox.silver_ore": "Silver Ore",
+  "block.silverfox.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.silverfox.moon_silver_ore": "Moon Silver Ore"
+
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "silverfox:raw_silver_storage_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "silverfox:raw_silver"
+  }
+}

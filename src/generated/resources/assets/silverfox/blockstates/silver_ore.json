@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "silverfox:block/silver_ore"
+    }
+  }
+}

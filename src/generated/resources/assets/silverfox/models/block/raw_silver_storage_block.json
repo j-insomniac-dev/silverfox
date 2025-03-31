@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "silverfox:block/raw_silver_storage_block"
+  }
+}
